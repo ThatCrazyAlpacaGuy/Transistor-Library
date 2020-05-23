@@ -1,4 +1,4 @@
-<span style="color:green"># Transistor-Library</span>
+# Transistor-Library
 
 ## Info
 This is a transistor library for python and c#.
